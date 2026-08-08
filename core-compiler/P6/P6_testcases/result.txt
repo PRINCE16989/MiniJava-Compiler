@@ -1,0 +1,9 @@
+
+		============ MARKS ============
+
+	Public testcases:	 40.000/40
+
+	Private testcases:	 60.000/60
+
+		*** TOTAL MARKS out of 100 for cs23b045_c: 100.000 100.000 ***
+		===============================	

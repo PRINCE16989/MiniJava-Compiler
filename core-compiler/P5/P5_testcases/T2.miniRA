@@ -1,0 +1,11 @@
+MAIN [0][0][0]
+MOVE v0 10
+MOVE t0 v0
+MOVE v0 MINUS t0 20
+
+MOVE t1 v0
+PRINT t1
+END
+// NOTSPILLED
+
+
